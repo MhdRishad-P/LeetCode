@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MhdRishad-P/LeetCode/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/MhdRishad-P/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/MhdRishad-P/LeetCode/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MhdRishad-P/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

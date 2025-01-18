@@ -25,9 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1252-break-a-palindrome](https://github.com/MhdRishad-P/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhdRishad-P/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhdRishad-P/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Greedy
+|  |
+| ------- |
+| [1252-break-a-palindrome](https://github.com/MhdRishad-P/LeetCode/tree/master/1252-break-a-palindrome) |
 <!---LeetCode Topics End-->

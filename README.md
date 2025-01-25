@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/MhdRishad-P/LeetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/MhdRishad-P/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0415-add-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/MhdRishad-P/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

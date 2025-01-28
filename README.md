@@ -50,16 +50,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MhdRishad-P/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/MhdRishad-P/LeetCode/tree/master/0290-word-pattern) |
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MhdRishad-P/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Simulation
 |  |
 | ------- |

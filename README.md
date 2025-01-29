@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MhdRishad-P/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/MhdRishad-P/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/MhdRishad-P/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0415-add-strings) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0202-happy-number) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhdRishad-P/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MhdRishad-P/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/MhdRishad-P/LeetCode/tree/master/0290-word-pattern) |

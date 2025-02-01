@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/MhdRishad-P/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0202-happy-number) |
+| [0680-valid-palindrome-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhdRishad-P/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MhdRishad-P/LeetCode/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0415-add-strings) |
+| [0680-valid-palindrome-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1252-break-a-palindrome](https://github.com/MhdRishad-P/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhdRishad-P/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1252-break-a-palindrome](https://github.com/MhdRishad-P/LeetCode/tree/master/1252-break-a-palindrome) |
 ## Hash Table
 |  |

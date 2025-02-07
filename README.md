@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MhdRishad-P/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0415-add-strings) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/MhdRishad-P/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/MhdRishad-P/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MhdRishad-P/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MhdRishad-P/LeetCode/tree/master/3429-special-array-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/MhdRishad-P/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/MhdRishad-P/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->

@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/MhdRishad-P/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MhdRishad-P/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MhdRishad-P/LeetCode/tree/master/3429-special-array-i) |
+| [3582-find-indices-of-stable-mountains](https://github.com/MhdRishad-P/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/MhdRishad-P/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |

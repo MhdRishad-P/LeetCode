@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/MhdRishad-P/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhdRishad-P/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3447-clear-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0415-add-strings) |
+| [3447-clear-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/MhdRishad-P/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->

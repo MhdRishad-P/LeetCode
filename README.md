@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MhdRishad-P/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhdRishad-P/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/MhdRishad-P/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/MhdRishad-P/LeetCode/tree/master/0290-word-pattern) |
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhdRishad-P/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhdRishad-P/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/MhdRishad-P/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MhdRishad-P/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MhdRishad-P/LeetCode/tree/master/3429-special-array-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhdRishad-P/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MhdRishad-P/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/MhdRishad-P/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation

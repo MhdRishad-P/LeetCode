@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/MhdRishad-P/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MhdRishad-P/LeetCode/tree/master/0342-power-of-four) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/MhdRishad-P/LeetCode/tree/master/1252-break-a-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhdRishad-P/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3447-clear-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/MhdRishad-P/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhdRishad-P/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MhdRishad-P/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhdRishad-P/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MhdRishad-P/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MhdRishad-P/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MhdRishad-P/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MhdRishad-P/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |

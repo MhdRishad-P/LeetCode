@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MhdRishad-P/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/MhdRishad-P/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3447-clear-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0415-add-strings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/MhdRishad-P/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3447-clear-digits](https://github.com/MhdRishad-P/LeetCode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |

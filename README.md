@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MhdRishad-P/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/MhdRishad-P/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/MhdRishad-P/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MhdRishad-P/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/MhdRishad-P/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0268-missing-number) |
@@ -111,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MhdRishad-P/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/MhdRishad-P/LeetCode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MhdRishad-P/LeetCode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MhdRishad-P/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/MhdRishad-P/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MhdRishad-P/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MhdRishad-P/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MhdRishad-P/LeetCode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MhdRishad-P/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
